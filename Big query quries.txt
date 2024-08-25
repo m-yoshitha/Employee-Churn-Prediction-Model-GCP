@@ -1,0 +1,3 @@
+SELECT *, "original" as Type FROM `hr-data-analysis-433517.EmployeeData.tbl_hr_data`
+union all
+SELECT *, "pilot" as Type FROM `hr-data-analysis-433517.EmployeeData.tbl_new_employees`
