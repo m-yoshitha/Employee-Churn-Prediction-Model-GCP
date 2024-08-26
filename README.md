@@ -24,6 +24,6 @@ The predictive model was developed using PyCaret, an open-source, low-code machi
 - **Prediction and Evaluation:** The model's performance was evaluated, and predictions were made on new employee data to assess churn risk.
 - **Feature Importance:** The analysis highlighted job satisfaction as the most significant predictor of employee churn, alongside other influential factors.
 
-## Dashboard and Insights
+## Dashboard and Insights [(Link)]([https://lookerstudio.google.com/embed/reporting/726ff6ed-2e85-4ef2-b602-74e5d96e4ba7/page/Y9s9D])
 An interactive dashboard was developed using Looker Studio to visualize the model's predictions and feature importance. The dashboard provides a comprehensive overview of employee churn trends, satisfaction levels, and departmental churn rates. These insights empower stakeholders to make informed, data-driven decisions to mitigate churn and improve employee retention.
 
